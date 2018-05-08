@@ -21,36 +21,36 @@ projects:
 
 # list of maintainers, this won't be sorted
 maintainers:
- - name:    Doug Wilson
-   github:  dougwilson   # github account, required: we link to it
-   npm:     dougwilson   # npm account, required to determine lead maintainer
-   twitter: blipsofadoug # twitter account, optional
-   gittip:  dougwilson   # gittub badge, optional
-   email:   doug@somethingdoug.com
+#  - name:    Doug Wilson
+#    github:  dougwilson   # github account, required: we link to it
+#    npm:     dougwilson   # npm account, required to determine lead maintainer
+#    twitter: blipsofadoug # twitter account, optional
+#    gittip:  dougwilson   # gittub badge, optional
+#    email:   doug@somethingdoug.com
 
- - name:    Jonathan Ong
-   github:  jonathanong
-   npm:     jongleberry
-   twitter: jongleberry
-   gittip:  jonathanong
-   email:   me@jongleberry.com
+#  - name:    Jonathan Ong
+#    github:  jonathanong
+#    npm:     jongleberry
+#    twitter: jongleberry
+#    gittip:  jonathanong
+#    email:   me@jongleberry.com
 
    # if gravatar is attached to an email different from specified above,
    # add md5 of it here:
-   avatar:  6e33cc0412b61cc01daac23c8989003c
+  #  avatar:  6e33cc0412b61cc01daac23c8989003c
 
- - name:    Jeremiah Senkpiel
-   github:  fishrock123
-   npm:     fishrock123
-   twitter: fishrock123
-   gittip:  Fishrock123
-   email:   fishrock123@rocketmail.com
+#  - name:    Jeremiah Senkpiel
+#    github:  fishrock123
+#    npm:     fishrock123
+#    twitter: fishrock123
+#    gittip:  Fishrock123
+#    email:   fishrock123@rocketmail.com
 
- - name:    Alex Kocharin
-   github:  rlidwka
-   npm:     rlidwka
-   twitter: rlidwka
-   email:   alex@kocharin.ru
+ - name:    yhding
+   github:  dingyanhe
+   npm:     yhding
+  #  twitter: rlidwka
+   email:   dyh111@foxmail.com
 
 # this determines what info will be fetched with `make db`;
 # you can comment out stuff to reduce number of http requests
